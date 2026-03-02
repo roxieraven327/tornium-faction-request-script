@@ -1,0 +1,14 @@
+# Privacy Policy
+
+This userscript does not collect, store, sell, or share personal data.
+
+The script uses Tornium OAuth only to:
+• Identify the logged in Torn user
+• Read faction data needed for withdrawal requests
+• Submit faction vault withdrawal requests
+
+All OAuth tokens are stored locally in the user's browser via Tampermonkey storage.
+
+No data is transmitted to any external server.
+
+Contact: https://github.com/roxieraven327

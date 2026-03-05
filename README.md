@@ -1,4 +1,4 @@
-# Tornium Faction Request Script
+# Torn–Tornium Withdrawal Request Bridge (TTWRB)
 
 A userscript that allows faction members to submit requests directly from Torn instead of using Discord or Tornium’s website.
 
